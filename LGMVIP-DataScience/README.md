@@ -4,7 +4,9 @@
 ### Task 1 : Image to Pencil Sketch with Python - 
 This contains a small code that can convert an image to a pencil sketch.
 
-### Task 2 : Stock Market Prediction and Forecasting - 
+### Task 2 :  - 
 
-*Datasetlinks*:  **https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv**
+*Datasetlinks*:  ****
 
+
+### Task 3 :  -

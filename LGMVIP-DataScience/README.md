@@ -8,5 +8,10 @@ This contains a small code that can convert an image to a pencil sketch.
 
 *Datasetlinks*:  ** https://bit.ly/2TK5Xn5**
 
+### Task 3 : Prediction using Decision Tree Algorithm -
+*Datasetlinks*:  ** https://bit.ly/3kXTdox**
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.
 
-### Task 3 :  -
+### Task 4 : Optimum Number of Clusters in Iris Flower Classification -
+*Datasetlinks*: ** http://archive.ics.uci.edu/ml/datasets/Iris**
+The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
